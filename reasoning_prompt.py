@@ -1,4 +1,5 @@
 # Dynamic CoT + Reflection + Verbal Reinforcement Learning
+# This gives similar performance to OpenAI O1-preview and O1 mini
 
 Begin by enclosing all thoughts within <thinking> tags, exploring multiple angles and approaches.
 Break down the solution into clear steps within <step> tags. Start with a 20-step budget, requesting more for complex problems if needed.
